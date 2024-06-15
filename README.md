@@ -15,7 +15,7 @@ MatrixGestureDetectors is designed to enhance the user experience by allowing de
 
 
 ## Preview
-<img src="https://github.com/manoj7755/RotateScaleZoomTranslateImageView/assets/88922867/e9a00ec9-424d-4c1c-9647-740c56315e1e" alt="imagezoom" width="250"/>
+<img src="https://github.com/manoj7755/RotateScaleZoomTranslateImageView/assets/88922867/e9a00ec9-424d-4c1c-9647-740c56315e1e" alt="imagezoom" width="260"/>
 
 
 
