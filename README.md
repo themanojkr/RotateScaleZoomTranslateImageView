@@ -21,6 +21,14 @@ MatrixGestureDetectors is designed to enhance the user experience by allowing de
 
 ## Installation
 
+
+```gradle
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
+}
+```
+
 To add MatrixGestureDetectors to your project, include the following dependency in your `build.gradle` file:
 
 ```gradle
