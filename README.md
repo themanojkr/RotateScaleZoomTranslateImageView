@@ -19,7 +19,7 @@ To add MatrixGestureDetectors to your project, include the following dependency 
 
 ```gradle
 dependencies {
-    implementation 'com.manoj:matrixgesturedetectors:1.0.0'
+    implementation 'com.github.manoj7755:RotateScaleZoomTranslateImageView:1.0.0'
 }
 
 ```
