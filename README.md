@@ -13,6 +13,9 @@ MatrixGestureDetectors is designed to enhance the user experience by allowing de
 - Rotate the image with two fingers
 - Smooth and responsive gestures
 
+![MatrixGestureDetectors in action]([path/to/your/image.gi](https://github.com/manoj7755/RotateScaleZoomTranslateImageView/assets/88922867/444f02cd-ee1c-4b6f-b842-9257af1e9ec7)f)
+
+
 ## Installation
 
 To add MatrixGestureDetectors to your project, include the following dependency in your `build.gradle` file:
